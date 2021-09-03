@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @listdoin
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @listdo.in
+- 👀 Grow your business with Listdo People on Listdo are looking to spend their money with the right local business.
+- 🌱 We Have Verified Every Listing. You won’t be disappointed.Make Sure They Choose You.
+- 💞️ Update your business listing so people can find you.
+- 📫 Reach Potential customers with Listdo Ads.
 
 <!---
 listdoin/listdoin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
